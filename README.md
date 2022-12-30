@@ -1,5 +1,9 @@
 # linux web
 <strong><pre>
+pkg install python git
+git clone https://github.com/3399711161/linux-web
+python install.py
+
 For termux terminal<br>
 For installing the web environment<br>
 First, you need to get the storage permission.<br>
