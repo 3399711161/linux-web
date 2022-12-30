@@ -12,4 +12,5 @@ If you find that there is no www folder under /sdcard/, please create it manuall
 web Address: http://127.0.0.1:8080<br>
 Home Master File Name index.html index.php<br>
 end<br>
+<h4>Copyright 2022 柒~</h4>
 </pre></strong>
